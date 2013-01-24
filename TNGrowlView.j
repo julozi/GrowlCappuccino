@@ -25,7 +25,7 @@
 @import <AppKit/CPTextField.j>
 @import <AppKit/CPView.j>
 
-@global TNGrowlPlacementHeight
+TNGrowlPlacementHeight = nil;
 
 
 /*! @global
